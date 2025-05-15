@@ -1,0 +1,9 @@
+langchain-core
+streamlit==1.45.0
+langchain==0.3.25
+langchain-community==0.3.24
+pymupdf==1.25.5
+faiss-cpu==1.11.0
+ollama==0.4.8
+numpy==2.2.5
+tiktoken==0.9.0
