@@ -61,7 +61,3 @@ project/
 ## Future Improvements
 
 See the `docs/Improvement_and_Future_Plans_Roadmap.md` for detailed plans on enhancing the project.
-
-## License
-
-Specify your project license here.
